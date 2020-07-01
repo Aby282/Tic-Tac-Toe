@@ -97,8 +97,7 @@ int main()
   turns();
   gameend();
   }
-  
-   if(turn=='X' && draw == false)
+  if(turn=='X' && draw == false)
    {
    	cout<<"Player2 [O} wins! congrats\n";
    }
